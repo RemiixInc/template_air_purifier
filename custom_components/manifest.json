@@ -1,9 +1,11 @@
 {
   "domain": "template_air_purifier",
   "name": "Template Air Purifier",
-  "documentation": "https://github.com/RemiixInc/template_air_purifier",
-  "dependencies": [],
-  "codeowners": ["@remiixinc"],
+  "codeowners": ["@RemiixInc"],
+  "dependencies": ["template"],
+  "documentation": "https://github.com/remiixinc/template_air_purifier",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/remiixinc/template_air_purifier/issues",
   "requirements": [],
   "version": "1.0.0"
 }
