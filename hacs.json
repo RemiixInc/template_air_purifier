@@ -1,0 +1,8 @@
+{
+  "name": "Template Air Purifier",
+  "content_in_root": false,
+  "domain": "template_air_purifier",
+  "zip_release": false,
+  "filename": "custom_components/template_air_purifier/manifest.json",
+  "render_readme": true
+}
