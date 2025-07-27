@@ -1,0 +1,9 @@
+{
+  "domain": "template_air_purifier",
+  "name": "Template Air Purifier",
+  "documentation": "https://github.com/RemiixInc/template_air_purifier",
+  "dependencies": [],
+  "codeowners": ["@remiixinc"],
+  "requirements": [],
+  "version": "1.0.0"
+}
