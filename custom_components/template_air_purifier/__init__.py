@@ -1,1 +1,1 @@
-
+"""Template Air Purifier integration."""
